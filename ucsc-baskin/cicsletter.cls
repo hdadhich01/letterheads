@@ -30,7 +30,7 @@
 
 \sbox{\departmenthead}{
     \parbox{6.875in}{
-        \includegraphics[width=2.25in]{school.jpg}%
+        \includegraphics[width=2.25in]{uni.png}%
         \hfill
         \includegraphics[width=2.25in]{dep.png}
     }
