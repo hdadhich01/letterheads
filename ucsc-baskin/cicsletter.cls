@@ -59,11 +59,11 @@
             \end{tabular}\par
         }%
      \fi
-     \vspace{1\parskip}%
      {\raggedright \toname \\ \toaddress \par}%
      \vspace{1\parskip}%
+
      \ifthenelse{\equal{\@subject}{}}{}{\@subject\\\@postsubject\par}
-     \vspace{1\parskip}%
+     \vspace{-1em}
      #1\par\nobreak
 }
 
